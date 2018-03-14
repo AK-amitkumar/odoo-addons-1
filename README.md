@@ -4,33 +4,7 @@ Dieses Repository bietet Erweiterungen für das Open Source ERP System odoo http
 Es enthält Pakete basierend auf dem Open Source System Odoo (früher auch als OpenERP bekannt). 
 Die Benutzung erfolgt OHNE GEWÄHR und auf eigene Gefahr.
 
-### Zum Inhalt ###
-
-* [Leseprobe Das Odoo Kochbuch](https://leanpub.com/odoo-kochbuch/read#equitania)
-
-**GIT Commits werden mit folgenden Präfixes zu versehen:**
-
-* [ADD] -> Für neue Erweiterungen
-* [CHG] -> Für Änderungen
-* [FIX] -> Für Bugfixes und Fehlerbeseitigungen
-* [IMP] -> Für Funktionserweiterungen
-* [REV] -> Für Revues
-
-Bei mehreren die Commits nichts zusammenfassen, sondern separieren.
-
-### Installation ###
-
-* [Leseprobe Das Odoo Kochbuch](https://leanpub.com/odoo-kochbuch/read)
-
-### Kontaktdaten ###
-
-* Equitania Software GmbH
-* Weiherstrasse 13
-* 75173 Pforzheim
-* Germany
-* Telefon +49 7231 16604 0
-* E-Mail: info@equitania.de
-* Homepage http://www.equitania.de bzw. http://www.myodoo.de
+# Wird hier nicht weiter gepflegt und wurde nach https://gitlab.ownerp.io/v8-myodoo-public/v8-addons  verschoben!
 
 ### Copyrights and Warranty ###
 
